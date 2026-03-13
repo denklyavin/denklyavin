@@ -46,7 +46,7 @@
 ### 📌 Мои проекты
 
 *Скоро здесь появятся ссылки на мои работы.*
-Лендинг Macaroons https://denklyavin.github.io/macaroons/ 
+> Лендинг Macaroons https://denklyavin.github.io/macaroons/ 
 
 ### 📱 Связаться со мной
 
